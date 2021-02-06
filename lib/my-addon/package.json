@@ -1,0 +1,11 @@
+{
+  "name": "my-addon",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-babel": "*",
+    "ember-cli-htmlbars": "*",
+    "ember-holy-futuristic-template-namespacing-batman": "*"
+  }
+}
